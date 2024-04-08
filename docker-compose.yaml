@@ -17,7 +17,8 @@ services:
       #ports:
       #  - "8001:8000"
       #command: "python -m uvicorn main:app --host 0.0.0.0"
-# stergem containerul anterior si apoi docker compose up -d sau docker-compose up -d
+# stergem containerul anterior si apoi docker compose up -d sau docker-compose up -d merge prima varianta
+
 
 
 # docker compose down
